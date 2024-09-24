@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Product Management Program</title>
-</head>
+<head> </head>
 <body>
 
   <h1>Product Management Application</h1>
